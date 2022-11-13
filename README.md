@@ -3,7 +3,7 @@
 This is a Django rest api backend for a [react front end web app](https://github.com/React-projects-tesfa/React-front-end-Todo-App).
 
 ### Build/Run
-Activate a virtual environment and install dependencies
+###### Activate a virtual environment and install dependencies
 
 ``` virtualenv venv```
 
@@ -13,14 +13,13 @@ Activate a virtual environment and install dependencies
 
 ```pip install requirements.txt```
 
-Run server
+###### Run server
 
 ```python -v runserver```
 
 The project is hosted locally, so the ```BASE_URL = http://127.0.0.1:8000/api/```
 
-
-The following operations are avaialable (see the screenshot):
+######  Available Operations
 
 ``` "List": "/task-list/",```
 

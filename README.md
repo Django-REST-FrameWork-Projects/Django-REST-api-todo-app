@@ -1,5 +1,4 @@
 # Django-REST-API for the react todo app
-[![python](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 This is a Django rest api backend for a [react front end web app](https://github.com/React-projects-tesfa/React-front-end-Todo-App).
 
 ### Build/Run

@@ -18,6 +18,15 @@ This is a Django rest api backend for a [react front end web app](https://github
 
 The project is hosted locally, so the ```BASE_URL = http://127.0.0.1:8000/api/```
 
+##### Api usage
+```
+// base url
+BASE_URL = "http://127.0.0.1:8000/api/"
+createtask = "http://127.0.0.1:8000/api/task-create/" // json data goes in the body
+updatetask = "http://127.0.0.1:8000/api/task-update/3" // json data goes in the body
+deletetask = "http://127.0.0.1:8000/api/task-delete/3"
+```
+
 ######  Available Operations
 
 ``` "List": "/task-list/",```
@@ -37,5 +46,7 @@ The project is hosted locally, so the ```BASE_URL = http://127.0.0.1:8000/api/``
 
 
 <img width="1512" alt="Screen Shot 2022-11-14 at 9 53 06 PM" src="https://user-images.githubusercontent.com/62855279/201815172-08c8ea37-b380-4536-8ed5-c2df299265cf.png">
+
+<img width="1506" alt="Screen Shot 2022-11-14 at 9 55 40 PM" src="https://user-images.githubusercontent.com/62855279/201815518-e359e26f-80bb-4178-8ddf-662dc8d873de.png">
 
 
